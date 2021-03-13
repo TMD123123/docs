@@ -17,7 +17,7 @@ title: Commands
 - **`!join`** - Summons the bot to the voice channel you are in.
     - **Aliases:** `summon`, `fuckon`
 ---
-- **`!play`** - Plays a song with the given name or url. [More Info](/play_song)
+- **`-play`** - Plays a song with the given name or url. [More Info](/play_song)
     - **Usage:** `!play <link/query>`
     - **Alias:** `p`
 ---
@@ -59,7 +59,7 @@ title: Commands
 - **`!loop`** - Toggles looping for the current playing song.
     - **Alias:** `repeat`
 ---
-- **`!skip`** - Votes to skip the current playing song. **[More Info](/voteskip#how-many-votes-are-required-for-a-song-to-be-vote-skipped)**
+- **`-skip`** - Votes to skip the current playing song. **[More Info](/voteskip#how-many-votes-are-required-for-a-song-to-be-vote-skipped)**
     - **Other Usage:** `!skip <number>` - Skip a certain amount of songs.
     - **Alias:** `voteskip`, `next`, `s`
 ---
